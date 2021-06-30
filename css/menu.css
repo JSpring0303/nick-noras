@@ -1,0 +1,346 @@
+body{
+	background-color: black;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
+
+.home{
+	display: flex;
+	justify-content: center;
+	position: relative;
+	text-align: center;
+}
+
+.home img{
+	height: 85%;
+	width:70%;
+}
+
+.nav{
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	border-top: solid 3px #e2ab59;
+	border-bottom: solid 3px #e2ab59;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-bottom: 4%;
+	text-align: center;
+	list-style: none;
+}
+
+.nav a{
+	color: white;
+	text-decoration: none;
+	font-family: 'Yeseva One', cursive;
+	font-size: 22px;
+}
+
+a:hover{
+	color:orange;
+	transition: 0.3s ease-in; 
+}
+
+
+.yeet{
+	border-top: solid 3px #e2ab59;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.yeetF{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+
+.yesH{
+	display: flex;
+	justify-content: center;
+}
+
+.yesH h1{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: underline;
+	text-decoration-color: #e2ab59;
+	font-size: 50px;
+}
+
+
+.yes{
+	display: flex;
+	justify-content: center;
+	margin-left: 15%;
+	margin-right: 15%; 
+}
+
+.yes p{
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size: 25px;
+	text-align: center;
+}
+
+
+
+.foodI{
+	background-image: url(../images/food.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-color: black;
+	justify-content: center;
+	position: relative;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 12%;
+}
+
+.foodI h2{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	background-color: rgba(0,0,0,0.5);
+	margin-right: 38%;
+	margin-left: 38%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: solid 3px #e2ab59; 
+}
+
+.cigarsI{
+	background-image: url(../images/cigar.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-color: black;
+	justify-content: center;
+	position: relative;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 12%;
+}
+
+.cigarsI h2{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	background-color: rgba(0,0,0,0.5);
+	margin-right: 38%;
+	margin-left: 38%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: solid 3px #e2ab59; 
+}
+
+.cocktailI{
+	background-image: url(../images/cocktail.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-color: black;
+	justify-content: center;
+	position: relative;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 12%;
+}
+
+.cocktailI h2{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	background-color: rgba(0,0,0,0.5);
+	margin-right: 38%;
+	margin-left: 38%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: solid 3px #e2ab59; 
+}
+
+.winebeerI{
+	background-image: url(../images/winebeer.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: black;
+	justify-content: center;
+	position: relative;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-bottom: 12%;
+}
+
+.winebeerI h2{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	background-color: rgba(0,0,0,0.5);
+	margin-right: 38%;
+	margin-left: 38%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: solid 3px #e2ab59; 
+}
+
+.champagneI{
+	background-image: url(../images/champagne.jpg);
+	background-attachment: fixed;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-color: black;
+	justify-content: center;
+	position: relative;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.champagneI h2{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	background-color: rgba(0,0,0,0.5);
+	margin-right: 38%;
+	margin-left: 38%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border: solid 3px #e2ab59; 
+}
+
+
+
+
+.map{
+	display: block;
+	margin: 0 auto;
+	margin-top: 18%;
+	width: 99%;
+}
+
+
+@media screen 
+	and (max-width: 780px){
+		.yes{
+			margin-left: 5%;
+			margin-right: 5%;
+		}
+
+		.map{
+			height: 70%;
+		}
+
+		.foodI h2{
+			margin-right: 20%;
+			margin-left: 20%;
+		}
+
+		.cigarsI h2{
+			margin-right: 20%;
+			margin-left: 20%;
+		}
+
+		.cocktailI h2{
+			margin-right: 20%;
+			margin-left: 20%;
+		}
+
+		.winebeerI h2{
+			margin-right: 20%;
+			margin-left: 20%;
+		}
+
+		.champagneI h2{
+			margin-right: 20%;
+			margin-left: 20%;
+		}
+
+	}
+
+
+
+@media screen 
+	and (min-width: 1008px){
+
+			.home img{
+				height: 95%;
+				width:80%;
+		}
+
+		.nav a{
+			font-size: 30px;
+		}
+
+		.yeetF{
+			margin-right: 5%;
+			margin-left: 5%;
+		}
+
+		.yeet{
+			margin-right: 5%;
+			margin-left: 5%;
+		}
+
+		.yes p{
+			font-size: 30px;
+		}
+
+		.yesH h1{
+			font-size: 60px;
+		}
+
+		.foodI h2{
+			font-size: 45px;
+		}
+
+		.cigarsI h2{
+			font-size: 45px;
+		}
+
+		.cocktailI h2{
+			font-size: 45px;
+		}
+
+		.winebeerI h2{
+			font-size: 45px;
+		}
+
+		.champagneI h2{
+			font-size: 45px;
+		}
+
+		.champagneI{
+			background-position: center;
+			background-size: cover;
+		}
+	}	
